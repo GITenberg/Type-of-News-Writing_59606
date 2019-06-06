@@ -1,5 +1,8 @@
 _repo: Type-of-News-Writing_59606
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59606-h/images/cover.jpg
 creator:
   author:
     agent_name: Bleyer, Willard Grosvenor
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '6220'
     url: http://www.gutenberg.org/2009/agents/6220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59606#Type-of-News-Writing
 gutenberg_issued: '2019-05-25'
 gutenberg_type: Text
 identifiers:
